@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "lextudio.restructuredtext",
+        "trond-snekvik.simple-rst",
+        "ms-python.python",
+        "davidanson.vscode-markdownlint",
+        "yzhang.markdown-all-in-one"
+    ]
+}
